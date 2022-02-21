@@ -67,17 +67,17 @@ Presentation: https://docs.google.com/presentation/d/17Zwdaytolsq9H5br2-hWuQXTR6
 <DD>https://github.com/learn-co-curriculum/dsc-modeling-your-data
 <DL/>
     
-Blog post:https://medium.com/@greennicholas62/exploratory-data-analysis-and-descriptive-statistics-a613fe050bc9
+## Blog post:https://medium.com/@greennicholas62/exploratory-data-analysis-and-descriptive-statistics-a613fe050bc9
 
 ## Interpretation
 
 My model concluded that the number of bathrooms in the home and the square footage were the key determinents of house price.
 
-I found that for for bathrooms, every percentile increase produced about 5.5 percent of new home value on average.
+I found that for bathrooms, every increase in the Z-score of the number of bathrooms produced about a 5.5 percent 
+of new home value on average.
 
-Square footage was very influential. I found that for every percentile increase in a houses square footage compared to 
-other houses, the house's value would increase by 15 percent. Therefore if a house were went from 50th percentile to
-the 52nd, the house would increase its value by 30 percent on average.
+Square footage was very influential. I found that for increase in Z-score of a house's square footage, the house's value 
+would increase by 15 percent on average.
 
 
 
